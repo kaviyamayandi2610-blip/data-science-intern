@@ -1,0 +1,16 @@
+Order_ID,Customer_Name,Gender,Country,Order_Date,Product,Category,Quantity,Sales,Profit
+1001,Arun,Male,India,01/09/2026,Laptop,Electronics,2,120000,18000
+1002,Priya,Female,india,02/09/2026,Mobile,Electronics,3,60000,9000
+1003,Rahul,M,India,03-09-2026,Headphones,Electronics,5,15000,3000
+1004,Divya,Female,INDIA,04/09/2026,Keyboard,Accessories,,8000,1500
+1005,Karthik,Male,India,05/09/2026,Mouse,Accessories,10,5000,1000
+1006,Meena,Female,India,06/09/2026,Laptop,Electronics,1,60000,10000
+1007,Arun,Male,India,01/09/2026,Laptop,Electronics,2,120000,18000
+1008,Suresh,Male,India,,Monitor,Electronics,2,30000,5000
+1009,Priya,F,india,08/09/2026,Mobile,Electronics,3,60000,9000
+1010,Anitha,Female,India,09/09/2026,Keyboard,Accessories,4,,1200
+1011,Ravi,Male,INDIA,10/09/2026,Mouse,Accessories,8,4000,800
+1012,Meena,Female,India,11/09/2026,Laptop,Electronics,1,60000,10000
+1013,John,Male,India,12/09/2026,Monitor,Electronics,2,30000,5000
+1014,Divya,Female,India,13/09/2026,Headphones,Electronics,5,15000,3000
+1015,Rahul,M,India,14/09/2026,Mobile,Electronics,3,60000,9000
